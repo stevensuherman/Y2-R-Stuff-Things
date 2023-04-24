@@ -1,0 +1,63 @@
+﻿Bird ID,Sex,Detour_treatment,Detour_score,Lid_flip_treatment,Motor_score,Colour_score
+AA,F,NA,NA,Noise,10,8
+AAA,F,NA,NA,NA,NA,NA
+AAP,F,NA,NA,NA,NA,NA
+AB,M,Noise,3,Control,6,NA
+AO,F,Noise,2,Noise,52,NA
+AR,F,Control,4,Noise,4,14
+AW,M,Noise,2,NA,NA,NA
+AY,M,NA,NA,Control,4,16
+BA ,M,NA,NA,Noise,6,27
+BB,M,Control,2,NA,NA,NA
+BBB,F,Control,3,Control,15,18
+BBY,M,Control,1,Control,9,12
+BO,M,NA,NA,Control,NA,13
+BOA,M,Control,NA,Control,9,28
+BW,M,Noise,NA,Noise,10,15
+BY,M,Noise,3,NA,NA,NA
+"COO(""O"")",F,Noise,2,NA,NA,NA
+CP,M,Control,1,Control,5,NA
+CW,M,Control,2,Noise,6,33
+CY,F,Control,3,NA,NA,NA
+EA,M,Noise,0,Noise,12,NA
+HA,M,Noise,1,NA,NA,NA
+HHO,F,Noise,3,NA,NA,NA
+HL,F,Control,3,Control,10,18
+HOP,M,Noise,2,Control,6,17
+HW,F,Noise,0,Noise,40,7
+OE,F,NA,NA,Control,11,41
+OHO,F,Control,3,Control,10,24
+OOO,F,Noise,1,NA,NA,NA
+OOW,M,NA,NA,Noise,11,24
+OOY,F,Control,2,Control,9,NA
+OP,F,NA,NA,NA,NA,NA
+OW,F,NA,NA,Control,10,10
+PB,F,Noise,1,NA,NA,NA
+PH,F,Control,2,NA,NA,NA
+POP,M,Control,2,Noise,4,15
+PP,F,Control,3,Control,6,40
+PPH ,M,Control,4,NA,NA,NA
+PW,F,Noise,2,Noise,8,5
+PY,F,NA,NA,Noise,40,22
+R (YR),F,Noise,3,Control,4,NA
+RA,F,Control,1,Noise,20,23
+RB,M,NA,NA,Control,NA,32
+RR,M,NA,NA,Noise,4,7
+RRO,F,Control,4,Noise,6,21
+RRR,M,Control,4,Noise,52,NA
+WA,F,Noise,2,NA,NA,NA
+WB,M,Noise,1,Control,NA,31
+WH,M,Noise,3,NA,NA,NA
+WO,F,NA,NA,Noise,5,51
+WW,M,Control,3,Control,9,NA
+WWH,F,Noise,2,NA,NA,NA
+WWW,F,NA,NA,Control,6,11
+YA,M,Noise,2,NA,NA,NA
+YH,M,NA,NA,Noise,29,51
+YL,F,Noise,2,NA,NA,NA
+"YP (""Y"")",F,Noise,1,Noise,8,12
+YY,M,Control,4,NA,NA,NA
+YYB,M,Noise,3,NA,NA,NA
+YYY,M,NA,NA,Control,5,21
+ZA,F,Control,1,NA,NA,NA
+ZZ,M,NA,NA,Control,11,9
