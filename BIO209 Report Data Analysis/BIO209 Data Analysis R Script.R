@@ -64,7 +64,7 @@ barplot(Exp2.freq.plot, beside = TRUE,
 chisq.test(Exp2.matrix)
 
 #R version 4.2.2
-#Script written by Stephanus Steven 210927724, QMUL
+#Script written by Stephanus Steven, QMUL
 #Last updated: 03:55 Wednesday 14/12/2022
 
 
